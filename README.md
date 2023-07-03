@@ -8,7 +8,7 @@ Config file for the command line stock ticker info app [ticker](https://github.c
 
 ### .config/nvim
 
-Config files for [NeoVim](https://neovim.io). Set's up NeoVim with a nice theme, some convienient plugins and an environment for developing Go. Based on the config files created by [bashibunni](https://githib.com/bashbunni/dotfiles)
+Config files for [NeoVim](https://neovim.io). Set's up NeoVim with a nice theme, some convienient plugins and an environment for developing Go. Based on the config files created by [bashibunni](https://github.com/bashbunni/dotfiles)
 
 ### .config/kitty
 
