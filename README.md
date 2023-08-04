@@ -1,6 +1,6 @@
 # My Dot Files
 
-Refer to my terminal setup [blog post](https://jgandrews.com:/posts/shell/) for more information
+Refer to my terminal setup [blog post](https://jgandrews.com:/posts/terminal/) for more information
 
 ### .ticker.yaml 
 
